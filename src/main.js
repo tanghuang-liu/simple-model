@@ -15,7 +15,6 @@ import store from './store'
 import router from './router'
 
 import './permission' // permission control
-import './utils/error-log' // error log
 
 import * as filters from './filters' // global filters
 
