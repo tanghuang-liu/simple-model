@@ -15,7 +15,7 @@ import store from './store'
 import router from './router'
 
 import './permission' // permission control
-
+import './components/index'
 import * as filters from './filters' // global filters
 
 /**
